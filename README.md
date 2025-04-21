@@ -80,7 +80,9 @@ To engineer AI-driven solutions that are **essential**, not optional.
 ---
 
 ## Snake eating my contributions😭🐍
-![Snake animation](https://raw.githubusercontent.com/lakshitaa4/lakshitaa4/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 
 ---
 
