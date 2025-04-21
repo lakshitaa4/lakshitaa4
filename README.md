@@ -60,7 +60,7 @@ To engineer AI-driven solutions that are <strong>essential</strong>, not optiona
 <h3 align="center">🚑 AI-Powered Diagnostic Assistant</h3>
 
 <p align="center">
-Machine learning-based diagnostic system (heart disease, breast cancer).<br>
+Gemini Flash 2.0 -based diagnostic system (heart disease, breast cancer).<br>
 <strong>Tech Stack:</strong> Python, Scikit-learn, Flask, TensorFlow.<br>
 <a href="https://huggingface.co/spaces/laksss/Diagnostic-Assistant">🔗 Try it here</a>
 </p>
