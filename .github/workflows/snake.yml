@@ -1,0 +1,25 @@
+name: Generate Snake Animation
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+      - name: Install dependencies
+        run: npm install
+      - name: Generate Snake SVG
+        run: npm run generate-snake
+      - name: Commit and push generated SVG
+        run: git add dist/* && git commit -m "Add snake animation" && git push
