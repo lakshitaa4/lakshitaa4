@@ -8,8 +8,10 @@
 🔭 Exploring <strong>AI for social good</strong> and <strong>machine learning</strong> in healthcare.<br>
 🌱 Learning <strong>quant finance</strong> and <strong>AI-powered tools</strong>.<br>
 👯 Open to collaborating on impactful <strong>AI projects</strong>.<br>
-📫 Reach me at: <a href="mailto:lakshita0000001@gmail.com">lakshita0000001@gmail.com</a>
+📫 Reach me at: <a href="mailto:lakshita0000001@gmail.com">lakshita0000001@gmail.com</a><br>
+Check out my <a href="https://drive.google.com/file/d/1C1F6PBt2CCXVmDshrC7aIWPDFdmsjjQp/view?usp=sharing">Resume✨</a>
 </p>
+
 
 ---
 
